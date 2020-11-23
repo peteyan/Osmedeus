@@ -36,3 +36,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# visual env
+./venv/
+# Jetbrains files
+./.idea/
